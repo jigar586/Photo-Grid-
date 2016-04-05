@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiSelectRecycler</string>
+    <string name="action_settings">Settings</string>
+    <string name="Done">done</string>
+    <string name="grid">Grid View</string>
+    <string name="thumb">Thumbnail View</string>
+    <string name="list">List View</string>
+    <string name="title_activity_detail">MultiSelectRecycler</string>
+</resources>
